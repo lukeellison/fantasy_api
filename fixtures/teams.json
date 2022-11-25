@@ -1,0 +1,170 @@
+{
+    "10400750-259b-33ac-eee3-a3852e83cd1f": {
+        "id": "10400750-259b-33ac-eee3-a3852e83cd1f",
+        "name": "Carolina Panthers",
+        "abbr": "CAR",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/CAR.png"
+    },
+    "10400200-f401-4e53-5175-0974e4f16cf7": {
+        "id": "10400200-f401-4e53-5175-0974e4f16cf7",
+        "name": "Atlanta Falcons",
+        "abbr": "ATL",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/ATL.png"
+    },
+    "10404900-d59e-b449-ef75-961e09ca027e": {
+        "id": "10404900-d59e-b449-ef75-961e09ca027e",
+        "name": "Tampa Bay Buccaneers",
+        "abbr": "TB",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/TB.png"
+    },
+    "10404600-adcd-28ac-5826-b4d95ec2a228": {
+        "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+        "name": "Seattle Seahawks",
+        "abbr": "SEA",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/SEA.png"
+    },
+    "10400610-c40e-a673-1743-2ce2a5d5d731": {
+        "id": "10400610-c40e-a673-1743-2ce2a5d5d731",
+        "name": "Buffalo Bills",
+        "abbr": "BUF",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/BUF.png"
+    },
+    "10403000-5851-f9d5-da45-78365a05b6b0": {
+        "id": "10403000-5851-f9d5-da45-78365a05b6b0",
+        "name": "Minnesota Vikings",
+        "abbr": "MIN",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/MIN.png"
+    },
+    "10400810-db30-43d6-221c-620006f3ca19": {
+        "id": "10400810-db30-43d6-221c-620006f3ca19",
+        "name": "Chicago Bears",
+        "abbr": "CHI",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/CHI.png"
+    },
+    "10401540-f97c-2d19-6fcd-fac6490a48b7": {
+        "id": "10401540-f97c-2d19-6fcd-fac6490a48b7",
+        "name": "Detroit Lions",
+        "abbr": "DET",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/DET.png"
+    },
+    "10402310-a47e-10ea-7442-16b633633637": {
+        "id": "10402310-a47e-10ea-7442-16b633633637",
+        "name": "Kansas City Chiefs",
+        "abbr": "KC",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/KC.png"
+    },
+    "10402250-89fe-7b86-ef98-9062cd354256": {
+        "id": "10402250-89fe-7b86-ef98-9062cd354256",
+        "name": "Jacksonville Jaguars",
+        "abbr": "JAX",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/JAX.png"
+    },
+    "10402700-1662-d8ad-f45c-0b0ea460d045": {
+        "id": "10402700-1662-d8ad-f45c-0b0ea460d045",
+        "name": "Miami Dolphins",
+        "abbr": "MIA",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/MIA.png"
+    },
+    "10401050-5e38-b907-1be1-55b91b19c057": {
+        "id": "10401050-5e38-b907-1be1-55b91b19c057",
+        "name": "Cleveland Browns",
+        "abbr": "CLE",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/CLE.png"
+    },
+    "10403410-997c-9c75-256b-3b012f468bd0": {
+        "id": "10403410-997c-9c75-256b-3b012f468bd0",
+        "name": "New York Giants",
+        "abbr": "NYG",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/NYG.png"
+    },
+    "10402120-b0bc-693d-098a-803014096eb0": {
+        "id": "10402120-b0bc-693d-098a-803014096eb0",
+        "name": "Houston Texans",
+        "abbr": "HOU",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/HOU.png"
+    },
+    "10403900-8251-6892-d81c-4348525c2d47": {
+        "id": "10403900-8251-6892-d81c-4348525c2d47",
+        "name": "Pittsburgh Steelers",
+        "abbr": "PIT",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/PIT.png"
+    },
+    "10403300-f235-cf9b-6d3a-2f182be48dd1": {
+        "id": "10403300-f235-cf9b-6d3a-2f182be48dd1",
+        "name": "New Orleans Saints",
+        "abbr": "NO",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/NO.png"
+    },
+    "10402100-447f-396e-8149-0a434ffb2f23": {
+        "id": "10402100-447f-396e-8149-0a434ffb2f23",
+        "name": "Tennessee Titans",
+        "abbr": "TEN",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/TEN.png"
+    },
+    "10401400-b89b-96e5-55d1-caa7e18de3d8": {
+        "id": "10401400-b89b-96e5-55d1-caa7e18de3d8",
+        "name": "Denver Broncos",
+        "abbr": "DEN",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/DEN.png"
+    },
+    "10402520-96bf-e9f2-4f68-8521ca896060": {
+        "id": "10402520-96bf-e9f2-4f68-8521ca896060",
+        "name": "Las Vegas Raiders",
+        "abbr": "LV",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/LV.png"
+    },
+    "10402200-2ea3-84c3-e627-6a6b3b39d56d": {
+        "id": "10402200-2ea3-84c3-e627-6a6b3b39d56d",
+        "name": "Indianapolis Colts",
+        "abbr": "IND",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/IND.png"
+    },
+    "10401800-ab22-323d-721a-cee4713c4c2d": {
+        "id": "10401800-ab22-323d-721a-cee4713c4c2d",
+        "name": "Green Bay Packers",
+        "abbr": "GB",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/GB.png"
+    },
+    "10401200-a308-98ca-ad5f-95df2fefea68": {
+        "id": "10401200-a308-98ca-ad5f-95df2fefea68",
+        "name": "Dallas Cowboys",
+        "abbr": "DAL",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/DAL.png"
+    },
+    "10402510-8931-0d5f-9815-79bb79649a65": {
+        "id": "10402510-8931-0d5f-9815-79bb79649a65",
+        "name": "Los Angeles Rams",
+        "abbr": "LA",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/LA.png"
+    },
+    "10403800-517c-7b8c-65a3-c61b95d86123": {
+        "id": "10403800-517c-7b8c-65a3-c61b95d86123",
+        "name": "Arizona Cardinals",
+        "abbr": "ARI",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/ARI.png"
+    },
+    "10404500-e7cb-7fce-3f10-4eeb269bd179": {
+        "id": "10404500-e7cb-7fce-3f10-4eeb269bd179",
+        "name": "San Francisco 49ers",
+        "abbr": "SF",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/SF.png"
+    },
+    "10404400-3b35-073f-197e-194bb8240723": {
+        "id": "10404400-3b35-073f-197e-194bb8240723",
+        "name": "Los Angeles Chargers",
+        "abbr": "LAC",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/LAC.png"
+    },
+    "10403700-b939-3cbd-3d16-24d4d6742fa2": {
+        "id": "10403700-b939-3cbd-3d16-24d4d6742fa2",
+        "name": "Philadelphia Eagles",
+        "abbr": "PHI",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/PHI.png"
+    },
+    "10405110-ec3c-669e-2614-db3dc1736e95": {
+        "id": "10405110-ec3c-669e-2614-db3dc1736e95",
+        "name": "Washington Commanders",
+        "abbr": "WAS",
+        "imageUrl": "https:\/\/static.nfl.com\/static\/site\/img\/logos\/165x185\/WAS.png"
+    }
+}
